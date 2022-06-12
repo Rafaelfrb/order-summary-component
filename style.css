@@ -1,0 +1,60 @@
+body { 
+    display: flex;
+    justify-content: center;
+    background-color: #d6e1ff;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    width: 28.17rem;
+    border-radius: 15px;
+}
+
+img {
+    border-radius: 17px 17px 0 0;
+}
+
+h1 {
+    margin-top: 2.9rem;
+    color: #182642;
+    font-size: 1.8rem;
+}
+
+.paragraph {
+    margin-top: -1.25rem;
+    line-height: 0.6rem;
+    letter-spacing: 0.195px;
+    text-align: center;
+}
+
+p {
+    color: #838b9c;
+    font-size: 16.49px;
+    /*text-align: center;
+    letter-spacing: 0.195px;*/
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 28rem;
+    margin-top: 2rem;
+}
+
+.plan {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+input {
+    background-color: #382ae1;
+}
